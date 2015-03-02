@@ -6,4 +6,4 @@ Include file with @import in your CSS file or with <link> tag ad add class at yo
 There are classes from 10 pixels to 100 pixels stepped by 5 pixels.
 
 **example**
-<div class="my-class mt-10">My HTML element</div>
+```<div class="my-class mt-10">My HTML element</div>```

@@ -6,6 +6,8 @@
  * Version: 1.0;
  * License: GNU/GPL;
  */
+.m-0{ margin:0px; }.mt-0{ margin-top:0px; }.mr-0{ margin-right:0px; }.mb-0{ margin-bottom:0px; }.ml-0{ margin-left:0px; }
+.m-5{ margin:5px; }.mt-5{ margin-top:5px; }.mr-5{ margin-right:5px; }.mb-5{ margin-bottom:5px; }.ml-5{ margin-left:5px; }
 .m-10{ margin:10px; }.mt-10{ margin-top:10px; }.mr-10{ margin-right:10px; }.mb-10{ margin-bottom:10px; }.ml-10{ margin-left:10px; }
 .m-15{ margin:15px; }.mt-15{ margin-top:15px; }.mr-15{ margin-right:15px; }.mb-15{ margin-bottom:15px; }.ml-15{ margin-left:15px; }
 .m-20{ margin:20px; }.mt-20{ margin-top:20px; }.mr-20{ margin-right:20px; }.mb-20{ margin-bottom:20px; }.ml-20{ margin-left:20px; }
